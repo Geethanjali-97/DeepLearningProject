@@ -21,7 +21,7 @@
 Clone the repository
 
 ```bash
-https://github.com/Geethanjali-97/DeepLearningProject
+https://github.com/Geethanjali-97/End-to-End-DeepLearning-Project-with-mlflow-and-DVC.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
